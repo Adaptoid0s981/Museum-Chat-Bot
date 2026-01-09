@@ -1,0 +1,11 @@
+# Ignore environment files
+.env
+user_data.csv
+payment_data.csv
+user_info.csv
+qr-codes
+104.py
+generator.py
+101.py
+venv
+#

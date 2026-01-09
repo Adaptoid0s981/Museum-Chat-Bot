@@ -1,0 +1,169 @@
+{
+  "header": {
+    "shop": "Shop",
+    "search": "Search",
+    "donate": "Donate",
+    "language": "Language"
+  },
+  "hero": {
+    "alt": "Hero image showing the museum",
+    "title": "Welcome to the Bharat Museum",
+    "description": "Experience cultures across the globe, from the dawn of human history to the present.",
+    "planYourVisit": "Plan Your Visit"
+  },
+  "visit": {
+    "title": "Discover two million years of human history and culture",
+    "for": "For entry –",
+    "book": "book online",
+    "open": "Open today: 09:00–17:00",
+    "last": "Last entry: 16:45"
+  },
+  "featuredExhibitions": {
+    "title": "Featured Exhibitions",
+    "bookNow": "Book Now",
+    "ageOfCuriosity": {
+      "title": "The Age of Curiosity",
+      "description": "Explore the wonders of the natural world through the eyes of 17th-century collectors.",
+      "dates": "March 1 – August 30, 2025"
+    },
+    "ancientEgypt": {
+      "title": "Ancient Egypt: Life and Death",
+      "description": "Discover the civilization of ancient Egypt and their beliefs about the afterlife.",
+      "dates": "April 10 – September 15, 2025"
+    },
+    "greekMyths": {
+      "title": "Greek Myths: Gods and Heroes",
+      "description": "Journey through the legendary tales of ancient Greece and their lasting influence.",
+      "dates": "May 20 – October 10, 2025"
+    },
+    "ancientIndia": {
+      "title": "Ancient India: Art and Architecture",
+      "description": "Explore the rich artistic and architectural traditions of ancient India over 5,000 years.",
+      "dates": "June 5 – November 20, 2025"
+    }
+  },
+  "collectionHighlights": {
+    "title": "Collection Highlights",
+    "description": "Explore some of the most significant objects from our collection spanning over two million years of human history and culture.",
+    "rosettaStone": {
+      "title": "Rosetta Stone",
+      "description": "The key to deciphering Egyptian hieroglyphs, dating to 196 BC."
+    },
+    "parthenonSculptures": {
+      "title": "Parthenon Sculptures",
+      "description": "Classical Greek marble sculptures that adorned the Parthenon temple in Athens."
+    },
+    "lewisChessmen": {
+      "title": "Lewis Chessmen",
+      "description": "12th-century chess pieces carved from walrus ivory, discovered on the Isle of Lewis."
+    },
+    "suttonHooHelmet": {
+      "title": "Sutton Hoo Helmet",
+      "description": "Anglo-Saxon helmet from the early 7th century, discovered in Suffolk, England."
+    },
+    "ashokaPillar": {
+      "title": "Ashoka Pillar",
+      "description": "Famous lion capital from the Ashoka Pillar, a symbol of modern India dating to the 3rd century BCE."
+    },
+    "dancingShiva": {
+      "title": "Dancing Shiva",
+      "description": "Bronze Nataraja statue depicting the Hindu god Shiva as the cosmic dancer, from the Chola dynasty."
+    },
+    "indusValleySeals": {
+      "title": "Indus Valley Seals",
+      "description": "Ancient seals from the Indus Valley Civilization featuring early script and animal motifs, circa 2600-1900 BCE."
+    },
+    "ajantaCavePaintings": {
+      "title": "Ajanta Cave Paintings",
+      "description": "Reproductions of the famous Buddhist cave paintings from Ajanta, showcasing ancient Indian art from the 2nd century BCE."
+    },
+    "exploreCollection": "Explore the collection"
+  },
+  "navigation": {
+    "visit": "Visit",
+    "exhibitions": "Exhibitions and Events",
+    "collection": "Collection",
+    "learn": "Learn",
+    "membership": "Membership",
+    "support": "Support Us"
+  },
+  "submenu": {
+    "visit": {
+      "plan": "Plan Your Visit",
+      "getting": "Getting Here",
+      "access": "Access",
+      "group": "Group Visits",
+      "schools": "Schools",
+      "families": "Families"
+    },
+    "exhibitions": {
+      "current": "Current Exhibitions",
+      "upcoming": "Upcoming Exhibitions",
+      "past": "Past Exhibitions",
+      "events": "Events",
+      "tours": "Tours"
+    },
+    "collection": {
+      "search": "Search the Collection",
+      "highlights": "Highlights",
+      "departments": "Departments",
+      "research": "Research",
+      "conservation": "Conservation"
+    },
+    "learn": {
+      "schools": "Schools",
+      "young": "Young People",
+      "families": "Families",
+      "adults": "Adults",
+      "communities": "Communities",
+      "digital": "Digital Resources"
+    },
+    "membership": {
+      "join": "Join",
+      "benefits": "Benefits",
+      "events": "Events",
+      "renew": "Renew",
+      "gift": "Gift Membership"
+    },
+    "support": {
+      "donate": "Donate",
+      "corporate": "Corporate Support",
+      "patrons": "Patrons",
+      "legacies": "Legacies",
+      "volunteer": "Volunteer"
+    }
+  },
+  "footer": {
+    "visitUs": "Visit Us",
+    "openingTimes": "Opening Times",
+    "days": {
+      "monday": "Monday: 09:00–17:00",
+      "tuesday": "Tuesday: 09:00–17:00",
+      "wednesday": "Wednesday: 09:00–17:00",
+      "thursday": "Thursday: 09:00–17:00",
+      "friday": "Friday: 09:00–17:00",
+      "saturday": "Saturday: 09:00–17:00",
+      "sunday": "Sunday: 09:00–17:00"
+    },
+    "explore": "Explore",
+    "links": {
+      "visit": "Visit",
+      "exhibitionsAndEvents": "Exhibitions and Events",
+      "collection": "Collection",
+      "learn": "Learn",
+      "membership": "Membership",
+      "supportUs": "Support Us",
+      "shop": "Shop",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "cookies": "Cookies",
+      "accessibility": "Accessibility",
+      "contact": "Contact"
+    },
+    "connectWithUs": "Connect With Us",
+    "newsletterTitle": "Sign up for our newsletter",
+    "emailPlaceholder": "Your email address",
+    "signUp": "Sign Up",
+    "rights": "All rights reserved."
+  }
+}
